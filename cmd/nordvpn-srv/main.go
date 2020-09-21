@@ -10,8 +10,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/thoeni/nordlynx-mux/internal/router"
-	"github.com/thoeni/nordlynx-mux/pkg/nordvpn"
+	"github.com/thoeni/nordvpn-mux/internal/router"
+	"github.com/thoeni/nordvpn-mux/pkg/nordvpn"
 )
 
 func main() {

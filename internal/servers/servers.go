@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/thoeni/nordlynx-mux/pkg/nordvpn"
+	"github.com/thoeni/nordvpn-mux/pkg/nordvpn"
 )
 
 func GetConfiguration(filesLocation, serverDomain string) (io.ReadCloser, error) {

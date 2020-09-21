@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/thoeni/nordlynx-mux/internal/countries"
-	"github.com/thoeni/nordlynx-mux/internal/servers"
-	"github.com/thoeni/nordlynx-mux/pkg/nordvpn"
+	"github.com/thoeni/nordvpn-mux/internal/countries"
+	"github.com/thoeni/nordvpn-mux/internal/servers"
+	"github.com/thoeni/nordvpn-mux/pkg/nordvpn"
 
 	"github.com/julienschmidt/httprouter"
 )
